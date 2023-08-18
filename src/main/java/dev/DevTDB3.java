@@ -40,6 +40,8 @@ import org.apache.jena.tdb2.params.StoreParams;
 import org.seaborne.tdb3.DatabaseBuilderTDB3;
 import org.seaborne.tdb3.DatasetGraphTDB3;
 import org.seaborne.tdb3.sys.BuildR;
+import org.apache.jena.tdb2.TDB2.*;
+
 
 public class DevTDB3 {
     // Todo:
