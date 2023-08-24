@@ -8,5 +8,5 @@ Whats modified:
 - We have collated the test results into a CSV file for different number of triples.
 
 
-Benchmarks:
+Benchmark scores:
 https://github.com/TW-Genesis/tdb3-spikes/blob/main/TDB2-vs-TDB3.xlsx
