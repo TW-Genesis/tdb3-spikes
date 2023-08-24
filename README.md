@@ -6,3 +6,7 @@ Whats modified:
 
 - We have added test case for comparing triples insertion and triple count performance for TDB2 vs TDB3.
 - We have collated the test results into a CSV file for different number of triples.
+
+
+Benchmarks:
+https://github.com/TW-Genesis/tdb3-spikes/blob/main/TDB2-vs-TDB3.xlsx
