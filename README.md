@@ -1,6 +1,6 @@
 This is a forked repository from the original [TDB3](https://github.com/afs/TDB3.git).
 
-Machine Setup- Apple M1 Pro 10 cores 16GB memory (APPLE SSD AP0512R)
+Machine Specs - Apple M1 Pro; 16GB; NVMe
 
 Whats modified:
 
