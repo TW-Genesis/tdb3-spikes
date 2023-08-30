@@ -1,6 +1,6 @@
 This is a forked repository from the original [TDB3](https://github.com/afs/TDB3.git).
 
-Machine Specs - Apple M1 Pro 16GB NVMe
+Machine Specs - AMD Ryzen 7 5700G; 64GB; 1 TB NVME
 
 Whats modified:
 
